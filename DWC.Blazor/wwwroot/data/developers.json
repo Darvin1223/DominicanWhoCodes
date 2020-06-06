@@ -615,5 +615,12 @@
         "github": "https://github.com/manokero",
         "twitter": "https://twitter.com/wildinmota",
         "webpage": "https://wildinmota.com/"
+    },
+    {
+        "name": "Darvin Rodriguez",
+        "initials": "DR",
+        "image": "..",
+        "summary": "Fron-end and Back-end Developer",
+        "skills": "Html, Css, Javascript, Nodejs"
     }
 ]
